@@ -1,0 +1,2 @@
+Hello my name is kurinchiban and my role is to work in big data using the spark
+Spark is a distributed computing system
